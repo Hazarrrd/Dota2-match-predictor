@@ -1,0 +1,7 @@
+md5: ccb42d7e115d50c30f2d230436c4bbe6
+outs:
+- md5: 5ac7ff4ec240ffdf153373b39449d649
+  path: dataset_min6.csv
+  cache: true
+  metric: false
+  persist: false
