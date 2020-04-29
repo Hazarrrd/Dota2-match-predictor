@@ -1,0 +1,46 @@
+ID,Team 1,Team 2,Odds 1,Odds 2, Winner
+0,OG,Team Liquid,1.71,2.06,1
+1,PSG.LGD,Team Liquid,1.71,2.06,2
+2,Team Liquid,Team Secret,1.75,2.33,1
+3,PSG.LGD,OG,1.42,2.39,2
+4,Vici Gaming,Team Secret,1.84,1.88,2
+5,Evil Geniuses,Team Liquid,1.77,1.98,2
+6,Infamous,Team Secret,4.37,1.19,2
+7,Royal Never Give Up,Team Liquid,2.59,1.48,2
+8,OG,Evil Geniuses,1.59,2.30,1
+9,PSG.LGD,Vici Gaming,1.64,2.18,1
+11,Newbee,Infamous,1.56,2.35,2
+12,TNC Predator,Team Liquid,1.88,1.84,2
+13,Virtus.pro,Royal Never Give Up,1.30,3.34,2
+14,Team Secret,Evil Geniuses,1.39,2.89,2
+15,OG,Newbee,1.22,4.15,1
+17,Infamous,Keen Gaming,1.84,1.87,1
+18,Fnatic,Team Liquid,2.19,1.65,2
+19,Alliance,Royal Never Give Up,1.70,2.07,2
+20,Vici Gaming,TNC Predator,1.36,2.98,1
+21,PSG.LGD,Virtus.pro,1.37,2.95,1
+22,Evil Geniuses,Ninjas in Pyjamas,1.16,4.50,1
+23,Royal Never Give Up,Infamous,1.53,2.37,0
+24,Vici Gaming,OG,1.72,2.00,0
+25,Virtus.pro,Fnatic,1.28,3.50,1
+27,PSG.LGD,Alliance,1.16,4.50,0
+28,Team Liquid,TNC Predator,1.61,2.20,2
+29,Team Secret,Chaos Esports Club,1.03,10.00,0
+30,Ninjas in Pyjamas,Infamous,2.00,1.72,0
+31,Royal Never Give Up,Fnatic,1.72,2.00,2
+32,Vici Gaming,Natus Vincere,1.12,3.50,1
+33,Virtus.pro,Evil Geniuses,1.83,1.83,0
+35,Newbee,Chaos Esports Club,1.25,3.75,1
+36,Team Liquid,Keen Gaming,1.16,4.50,1
+37,Team Secret,PSG.LGD,1.53,2.37,2
+38,OG,Fnatic,1.12,5.50,1
+39,Royal Never Give Up,Natus Vincere,2.62,1.44,1
+40,Vici Gaming,Ninjas in Pyjamas,1.11,6.00,0
+41,Virtus.pro,Infamous,1.11,6.00,1
+42,Newbee,Keen Gaming,1.61,2.20,0
+43,Team Liquid,Alliance,1.28,3.50,0
+45,TNC Predator,Chaos Esports Club,1.12,5.50,0
+46,Evil Geniuses,Infamous,1.07,7.50,0
+47,Fnatic,Natus Vincere,2.20,1.61,1
+48,Ninjas in Pyjamas,Royal Never Give Up,1.72,2.00,2
+49,Virtus.pro,OG,1.72,2.00,2
